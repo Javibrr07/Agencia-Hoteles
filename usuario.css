@@ -31,7 +31,7 @@
 
 .hero {
     height: 100vh;
-    background-image: url("Imagenhotel.png");
+    background-image: url("Hotel\ Image\ 16\ ene\ 2026\,\ 12_28_12.png");
     background-size: cover;
     background-position: center;
     position: relative;
@@ -46,7 +46,14 @@
     inset: 0;
     background: rgba(0,0,0,0.45);
 }
-
+.logo {
+    font-size: 28px;
+    font-weight: bold;
+}
+.logo a{
+    color: white;
+    text-decoration: none;
+}
 
 .perfil-card {
     position: relative;
