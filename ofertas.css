@@ -41,7 +41,7 @@ nav a {
 /* HERO */
 .hero {
     height: 100vh;
-    background-image:url(Hotel\ Image\ 16\ ene\ 2026\,\ 12_28_12\ \(2\).png);
+    background-image:url(Roma.webp).png);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -132,3 +132,4 @@ footer p {
     width: 85%;
     margin: auto;
 }
+
