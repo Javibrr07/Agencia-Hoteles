@@ -41,7 +41,7 @@ nav a {
 /* HERO */
 .hero {
     height: 100vh;
-    background-image:url(Roma.webp).png);
+    background-image:url("principal_hotel.jpg");
     display: flex;
     align-items: center;
     justify-content: center;
@@ -132,4 +132,5 @@ footer p {
     width: 85%;
     margin: auto;
 }
+
 
